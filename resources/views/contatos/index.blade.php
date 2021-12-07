@@ -34,7 +34,7 @@
                 </tr>
             @empty
                 <tr>
-                    <td class="text-center" colspan="4">Nenhum registro para exibir</td>
+                    <td class="text-center" colspan="5">Nenhum registro para exibir</td>
                 </tr>
             @endforelse
         </tbody>
